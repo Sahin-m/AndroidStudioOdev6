@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.299" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/circle.xml" value="0.2725" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/download.xml" value="0.2725" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/home_icon.xml" value="0.2475" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/ic_launcher_background.xml" value="0.299" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/maximize-48px.xml" value="0.303" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/maximize78px.xml" value="0.303" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/minimize.xml" value="0.22" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/primelogo.xml" value="0.299" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/sag_ok.xml" value="0.2475" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/search.xml" value="0.303" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/drawable/searh_icon.xml" value="0.2475" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/font/arial.xml" value="0.18463541666666666" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/layout/activity_main.xml" value="0.33177083333333335" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/layout/category_tasarim.xml" value="0.48246364414029086" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/layout/fragment_anasayfa.xml" value="0.33" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/layout/fragment_film_detay.xml" value="0.33" />
+        <entry key="..\:/KotlinProjelerim/AndroidStudioOdev6/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.303" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

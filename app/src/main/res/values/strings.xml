@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidStudioOdev6</string>
+
+    <string name="anasayfa">Anasayfa</string>
+    <string name="tvDizileri">TVDizileri</string>
+    <string name="filmler">Filmler</string>
+    <string name="cocuk">Çocuk</string>
+    <string name="bul">Bul</string>
+    <string name="indirilenler">İndirilenler</string>
+    <string name="banaOzel">Bana Özel</string>
+    <string name="category1">Amazon Orijinal ve Özel İçerikler</string>
+    <string name="category2">Seslendirmeli TV dizileri ve filmler</string>
+</resources>
